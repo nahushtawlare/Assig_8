@@ -1,7 +1,7 @@
 public class Assig_8 {
 
 	public static void main(String[] args) {
-	System.out.print("hello welcome to cdac noida");
+	System.out.print(" cdac noida");
 
 	}
 
